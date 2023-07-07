@@ -1,0 +1,6 @@
+opencv_contrib_python==4.8.0.74
+opencv_python==4.8.0.74
+opencv_python_headless==4.8.0.74
+PyQt5==5.15.9
+PyQt5_sip==12.12.1
+qrcode==7.4.2
