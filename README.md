@@ -10,13 +10,6 @@
 - [x] Linux
 - [X] Windows
 - [X] MacOS
-
-## Prerequisites for FrostPKG
-- [x] OpenCV
-- [x] PyQt5
-- [x] QrCode
-- [x] Python3
-
 ## Getting Started
 Manual installation
 
